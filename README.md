@@ -106,14 +106,8 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
 
-# With the use of high school data compiled from the New York City 
-# Department of Education, and the SAT score averages and testing rates 
-# were provided by the College Board, we analyse and discuss whether a 
-# a student's city and high school affects the SAT score he gets through
-# college board. SAT scores are standardized tests taken by college board
-# (an independent board) that are used by students to apply for college
-# after highschool. The score a child gets greatly impacts his/her chance
-# in getting into college and their future/
-# The main emphasis in the project would be to find connections
-# in whether some cities or highschools in the state of New York do better 
-# than others and discuss the factors that lead to these differences
+With the use of high school data compiled from the New York City  Department of Education, and the SAT score averages and testing rates were 
+provided by the College Board, we analyse and discuss whether a  a student's city and high school affects the SAT score he gets through college board. 
+SAT scores are standardized tests taken by college board (an independent board) that are used by students to apply for college after highschool. The score a 
+child gets greatly impacts his/her chance in getting into college and their future. The main emphasis in the project would be to find connections
+in whether some cities or highschools in the state of New York do better than others and discuss the factors that lead to these differences.
